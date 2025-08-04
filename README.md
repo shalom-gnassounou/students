@@ -2,11 +2,7 @@
 
 Ce projet Node.js affiche la liste des étudiants avec 4 couleurs différentes dans la console grâce à la bibliothèque [chalk](https://www.npmjs.com/package/chalk).
 
-## 🚀 Objectif
 
-Lorsque vous exécutez la commande :
-
-npm start
 
  Installation :
 
