@@ -11,15 +11,14 @@ Ce projet Node.js affiche la liste des étudiants avec 4 couleurs différentes d
 
  npm init -y
  
- npm install chalk
-
-
  Lancement :
 
  npm start
 
 
 Structure de projet: 
+
+
 student/
 ├── index.js        # Script principal
 ├── package.json    # Configuration du projet
