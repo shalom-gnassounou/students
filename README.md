@@ -10,6 +10,7 @@ Ce projet Node.js affiche la liste des étudiants avec 4 couleurs différentes d
  cd student
 
  npm init -y
+ 
  npm install chalk
 
 
