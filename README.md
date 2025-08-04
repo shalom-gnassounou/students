@@ -7,6 +7,7 @@ Ce projet Node.js affiche la liste des étudiants avec 4 couleurs différentes d
  Installation :
 
  git clone https://github.com/shalom-gnassounou/students 
+ cd students
  
 
  npm init -y
